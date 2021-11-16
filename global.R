@@ -1,0 +1,5 @@
+attendance <- read.csv("data-attendance.csv", stringsAsFactors=F)
+total.yearly.attendance <- attendance %>% group_by(Year, gymid) %>% summarize(total = sum(attendance)) 
+total.yearly.attendance <- left_join(total.yearly.attendance, gyms, by="gymid")
+gyms <- read.csv("data-gymnasiums.csv", stringsAsFactors = FALSE)
+bostongymnasiums <- left_join(attendance, gyms, by="gymid")
