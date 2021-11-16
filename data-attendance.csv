@@ -1,0 +1,544 @@
+﻿id,gym-name,gymid,type,attendance,Year,sex
+1,D Street Gymnasium,DSG,men and boys,21573,1909,M
+148,D Street Gymnasium,DSG,mothers,384,1912,F
+58,D Street Gymnasium,DSG,mothers,484,1910,F
+272,D Street Gymnasium,DSG,girls,3286,1915,F
+134,D Street Gymnasium,DSG,girls,4146,1912,F
+100,D Street Gymnasium,DSG,mothers,484,1911,F
+232,D Street Gymnasium,DSG,men,3723,1915,M
+353,D Street Gymnasium,DSG,individual,4465,1917,Individual
+15,D Street Gymnasium,DSG,individual,3041,1909,Individual
+403,D Street Gymnasium,DSG,girls,5140,1917,F
+338,D Street Gymnasium,DSG,girls,4102,1916,F
+22,D Street Gymnasium,DSG,individual,4149,1910,Individual
+373,D Street Gymnasium,DSG,school boys,6626,1917,M
+298,D Street Gymnasium,DSG,men,2430,1916,M
+383,D Street Gymnasium,DSG,working boys,3955,1917,M
+252,D Street Gymnasium,DSG,working boys,2847,1915,M
+242,D Street Gymnasium,DSG,school boys,8839,1915,M
+113,D Street Gymnasium,DSG,men,6041,1912,M
+282,D Street Gymnasium,DSG,mothers,377,1915,F
+120,D Street Gymnasium,DSG,working boys,5500,1912,M
+222,D Street Gymnasium,DSG,individual,4268,1915,Individual
+64,D Street Gymnasium,DSG,individual,4149,1911,Individual
+88,D Street Gymnasium,DSG,girls,4244,1911,F
+8,D Street Gymnasium,DSG,women and girls,6777,1909,F
+262,D Street Gymnasium,DSG,women,888,1915,F
+206,D Street Gymnasium,DSG,girls,3337,1913,F
+188,D Street Gymnasium,DSG,working boys,2193,1913,M
+197,D Street Gymnasium,DSG,women,905,1913,F
+52,D Street Gymnasium,DSG,women,1236,1910,F
+40,D Street Gymnasium,DSG,school boys,7195,1910,M
+94,D Street Gymnasium,DSG,women,1236,1911,F
+308,D Street Gymnasium,DSG,school boys,9702,1916,M
+328,D Street Gymnasium,DSG,women,861,1916,F
+179,D Street Gymnasium,DSG,school boys,5125,1913,M
+170,D Street Gymnasium,DSG,men,5393,1913,M
+70,D Street Gymnasium,DSG,men,5253,1911,M
+127,D Street Gymnasium,DSG,school boys,6585,1912,M
+288,D Street Gymnasium,DSG,individual,4412,1916,Individual
+28,D Street Gymnasium,DSG,men,5253,1910,M
+318,D Street Gymnasium,DSG,working boys,3652,1916,M
+46,D Street Gymnasium,DSG,girls,4244,1910,F
+82,D Street Gymnasium,DSG,school boys,7195,1911,M
+161,D Street Gymnasium,DSG,individual,1406,1913,Individual
+106,D Street Gymnasium,DSG,individual,4938,1912,Individual
+76,D Street Gymnasium,DSG,working boys,3133,1911,M
+34,D Street Gymnasium,DSG,working boys,3133,1910,M
+393,D Street Gymnasium,DSG,women,749,1917,F
+141,D Street Gymnasium,DSG,women,1040,1912,F
+363,D Street Gymnasium,DSG,men,2021,1917,M
+418,D Street Gymnasium,DSG,individual,1566,1918,Individual
+427,D Street Gymnasium,DSG,men,463,1918,M
+436,D Street Gymnasium,DSG,school boys,975,1918,M
+445,D Street Gymnasium,DSG,working boys,1660,1918,M
+454,D Street Gymnasium,DSG,women,85,1918,F
+463,D Street Gymnasium,DSG,girls,1072,1918,F
+487,D Street Gymnasium,DSG,individual,0,1919,Individual
+497,D Street Gymnasium,DSG,men,0,1919,M
+507,D Street Gymnasium,DSG,school boys,0,1919,M
+517,D Street Gymnasium,DSG,working boys,0,1919,M
+527,D Street Gymnasium,DSG,women,0,1919,F
+537,D Street Gymnasium,DSG,girls,0,1919,F
+547,D Street Gymnasium,DSG,mothers,0,1919,F
+2,East Boston Gymnasium,PSG,men and boys,8565,1909,M
+281,East Boston Gymnasium,PSG,mothers,0,1915,F
+384,East Boston Gymnasium,PSG,working boys,1770,1917,M
+404,East Boston Gymnasium,PSG,girls,4099,1917,F
+178,East Boston Gymnasium,PSG,school boys,7500,1913,M
+289,East Boston Gymnasium,PSG,individual,1929,1916,Individual
+354,East Boston Gymnasium,PSG,individual,2022,1917,Individual
+196,East Boston Gymnasium,PSG,women,4266,1913,F
+251,East Boston Gymnasium,PSG,working boys,3394,1915,M
+126,East Boston Gymnasium,PSG,working boys,5594,1912,M
+160,East Boston Gymnasium,PSG,individual,3538,1913,Individual
+9,East Boston Gymnasium,PSG,women and girls,6233,1909,F
+231,East Boston Gymnasium,PSG,men,5124,1915,M
+221,East Boston Gymnasium,PSG,individual,2774,1915,Individual
+187,East Boston Gymnasium,PSG,working boys,3566,1913,M
+169,East Boston Gymnasium,PSG,men,6157,1913,M
+112,East Boston Gymnasium,PSG,individual,482,1912,Individual
+213,East Boston Gymnasium,PSG,mothers,558,1913,F
+299,East Boston Gymnasium,PSG,men,3714,1916,M
+140,East Boston Gymnasium,PSG,girls,10418,1912,F
+205,East Boston Gymnasium,PSG,girls,7642,1913,F
+329,East Boston Gymnasium,PSG,women,1402,1916,F
+364,East Boston Gymnasium,PSG,men,2830,1917,M
+271,East Boston Gymnasium,PSG,girls,6636,1915,F
+319,East Boston Gymnasium,PSG,working boys,2911,1916,M
+374,East Boston Gymnasium,PSG,school boys,7955,1917,M
+394,East Boston Gymnasium,PSG,women,1161,1917,F
+154,East Boston Gymnasium,PSG,mothers,395,1912,F
+133,East Boston Gymnasium,PSG,school boys,7062,1912,M
+147,East Boston Gymnasium,PSG,women,1681,1912,F
+261,East Boston Gymnasium,PSG,women,2165,1915,F
+309,East Boston Gymnasium,PSG,school boys,7027,1916,M
+241,East Boston Gymnasium,PSG,school boys,7688,1915,M
+119,East Boston Gymnasium,PSG,men,6085,1912,M
+339,East Boston Gymnasium,PSG,girls,4726,1916,F
+493,East Boston Gymnasium,PSG,individual,2014,1919,Individual
+503,East Boston Gymnasium,PSG,men,1467,1919,M
+513,East Boston Gymnasium,PSG,school boys,4992,1919,M
+523,East Boston Gymnasium,PSG,working boys,447,1919,M
+533,East Boston Gymnasium,PSG,women,802,1919,F
+543,East Boston Gymnasium,PSG,girls,3171,1919,F
+553,East Boston Gymnasium,PSG,mothers,0,1919,F
+101,Ward 16 Gymnasium,CRG,mothers,7989,1911,F
+128,Ward 16 Gymnasium,CRG,school boys,8121,1912,M
+135,Ward 16 Gymnasium,CRG,girls,8477,1912,F
+114,Ward 16 Gymnasium,CRG,men,10562,1912,M
+71,Ward 16 Gymnasium,CRG,men,7597,1911,M
+65,Ward 16 Gymnasium,CRG,individual,5594,1911,Individual
+166,Ward 16 Gymnasium,CRG,men,9055,1913,M
+142,Ward 16 Gymnasium,CRG,women,8417,1912,F
+258,Ward 16 Gymnasium,CRG,women,6288,1915,F
+23,Ward 16 Gymnasium,CRG,individual,5594,1910,Individual
+59,Ward 16 Gymnasium,CRG,mothers,4178,1910,F
+211,Ward 16 Gymnasium,CRG,mothers,1543,1913,F
+17,Ward 16 Gymnasium,CRG,individual,3614,1909,Individual
+29,Ward 16 Gymnasium,CRG,men,7597,1910,M
+47,Ward 16 Gymnasium,CRG,girls,7793,1910,F
+149,Ward 16 Gymnasium,CRG,mothers,3253,1912,F
+107,Ward 16 Gymnasium,CRG,individual,5878,1912,Individual
+83,Ward 16 Gymnasium,CRG,school boys,8950,1911,M
+184,Ward 16 Gymnasium,CRG,working boys,6661,1913,M
+238,Ward 16 Gymnasium,CRG,school boys,8203,1915,M
+53,Ward 16 Gymnasium,CRG,women,7989,1910,F
+10,Ward 16 Gymnasium,CRG,women and girls,21249,1909,F
+278,Ward 16 Gymnasium,CRG,mothers,6096,1915,F
+95,Ward 16 Gymnasium,CRG,women,7989,1911,F
+218,Ward 16 Gymnasium,CRG,individual,4223,1915,Individual
+268,Ward 16 Gymnasium,CRG,girls,9536,1915,F
+35,Ward 16 Gymnasium,CRG,working boys,3048,1910,M
+41,Ward 16 Gymnasium,CRG,school boys,8950,1910,M
+228,Ward 16 Gymnasium,CRG,men,7751,1915,M
+248,Ward 16 Gymnasium,CRG,working boys,6509,1915,M
+77,Ward 16 Gymnasium,CRG,working boys,3048,1911,M
+157,Ward 16 Gymnasium,CRG,individual,4778,1913,Individual
+175,Ward 16 Gymnasium,CRG,school boys,9534,1913,M
+89,Ward 16 Gymnasium,CRG,girls,7793,1911,F
+193,Ward 16 Gymnasium,CRG,women,9383,1913,F
+3,Ward 16 Gymnasium,CRG,men and boys,19691,1909,M
+202,Ward 16 Gymnasium,CRG,girls,9109,1913,F
+121,Ward 16 Gymnasium,CRG,working boys,10858,1912,M
+131,Ward 7 Gymnasium,TSG,school boys,5005,1912,M
+74,Ward 7 Gymnasium,TSG,men,2412,1911,M
+229,Ward 7 Gymnasium,TSG,men,515,1915,M
+92,Ward 7 Gymnasium,TSG,girls,1833,1911,F
+167,Ward 7 Gymnasium,TSG,men,2758,1913,M
+11,Ward 7 Gymnasium,TSG,women and girls,5375,1909,F
+98,Ward 7 Gymnasium,TSG,women,1728,1911,F
+203,Ward 7 Gymnasium,TSG,girls,2717,1913,F
+104,Ward 7 Gymnasium,TSG,mothers,297,1911,F
+259,Ward 7 Gymnasium,TSG,women,314,1915,F
+185,Ward 7 Gymnasium,TSG,working boys,1621,1913,M
+56,Ward 7 Gymnasium,TSG,women,1728,1910,F
+68,Ward 7 Gymnasium,TSG,individual,1969,1911,Individual
+249,Ward 7 Gymnasium,TSG,working boys,309,1915,M
+80,Ward 7 Gymnasium,TSG,working boys,1221,1911,M
+194,Ward 7 Gymnasium,TSG,women,2065,1913,F
+110,Ward 7 Gymnasium,TSG,individual,1759,1912,Individual
+279,Ward 7 Gymnasium,TSG,mothers,0,1915,F
+44,Ward 7 Gymnasium,TSG,school boys,5179,1910,M
+176,Ward 7 Gymnasium,TSG,school boys,4173,1913,M
+219,Ward 7 Gymnasium,TSG,individual,288,1915,Individual
+86,Ward 7 Gymnasium,TSG,school boys,5179,1911,M
+124,Ward 7 Gymnasium,TSG,working boys,2998,1912,M
+158,Ward 7 Gymnasium,TSG,individual,2091,1913,Individual
+269,Ward 7 Gymnasium,TSG,girls,880,1915,F
+38,Ward 7 Gymnasium,TSG,working boys,1221,1910,M
+152,Ward 7 Gymnasium,TSG,mothers,114,1912,F
+239,Ward 7 Gymnasium,TSG,school boys,1709,1915,M
+145,Ward 7 Gymnasium,TSG,women,2035,1912,F
+117,Ward 7 Gymnasium,TSG,men,2237,1912,M
+32,Ward 7 Gymnasium,TSG,men,2412,1910,M
+138,Ward 7 Gymnasium,TSG,girls,2184,1912,F
+26,Ward 7 Gymnasium,TSG,individual,1969,1910,Individual
+18,Ward 7 Gymnasium,TSG,individual,2157,1909,Individual
+50,Ward 7 Gymnasium,TSG,girls,1833,1910,F
+62,Ward 7 Gymnasium,TSG,mothers,297,1910,F
+4,Ward 7 Gymnasium,TSG,men and boys,8373,1909,M
+27,Ward 9 Gymnasium,HPG,individual,2038,1910,Individual
+153,Ward 9 Gymnasium,HPG,mothers,172,1912,F
+93,Ward 9 Gymnasium,HPG,girls,2670,1911,F
+220,Ward 9 Gymnasium,HPG,individual,3141,1915,Individual
+159,Ward 9 Gymnasium,HPG,individual,1467,1913,Individual
+139,Ward 9 Gymnasium,HPG,girls,2711,1912,F
+111,Ward 9 Gymnasium,HPG,individual,1647,1912,Individual
+250,Ward 9 Gymnasium,HPG,working boys,719,1915,M
+212,Ward 9 Gymnasium,HPG,mothers,520,1913,F
+39,Ward 9 Gymnasium,HPG,working boys,271,1910,M
+45,Ward 9 Gymnasium,HPG,school boys,4068,1910,M
+118,Ward 9 Gymnasium,HPG,men,2426,1912,M
+75,Ward 9 Gymnasium,HPG,men,4325,1911,M
+260,Ward 9 Gymnasium,HPG,women,1598,1915,F
+19,Ward 9 Gymnasium,HPG,individual,1492,1909,Individual
+204,Ward 9 Gymnasium,HPG,girls,2043,1913,F
+168,Ward 9 Gymnasium,HPG,men,2065,1913,M
+125,Ward 9 Gymnasium,HPG,working boys,1192,1912,M
+51,Ward 9 Gymnasium,HPG,girls,2670,1910,F
+105,Ward 9 Gymnasium,HPG,mothers,466,1911,F
+81,Ward 9 Gymnasium,HPG,working boys,271,1911,M
+63,Ward 9 Gymnasium,HPG,mothers,466,1910,F
+132,Ward 9 Gymnasium,HPG,school boys,3612,1912,M
+99,Ward 9 Gymnasium,HPG,women,598,1911,F
+69,Ward 9 Gymnasium,HPG,individual,2038,1911,Individual
+5,Ward 9 Gymnasium,HPG,men and boys,8407,1909,M
+240,Ward 9 Gymnasium,HPG,school boys,5877,1915,M
+177,Ward 9 Gymnasium,HPG,school boys,3718,1913,M
+280,Ward 9 Gymnasium,HPG,mothers,767,1915,F
+186,Ward 9 Gymnasium,HPG,working boys,326,1913,M
+195,Ward 9 Gymnasium,HPG,women,673,1913,F
+87,Ward 9 Gymnasium,HPG,school boys,4068,1911,M
+33,Ward 9 Gymnasium,HPG,men,4325,1910,M
+270,Ward 9 Gymnasium,HPG,girls,4319,1915,F
+230,Ward 9 Gymnasium,HPG,men,2571,1915,M
+146,Ward 9 Gymnasium,HPG,women,789,1912,F
+12,Ward 9 Gymnasium,HPG,women and girls,2643,1909,F
+57,Ward 9 Gymnasium,HPG,women,598,1910,F
+130,North Bennet Street Gymnasium,NBG,school boys,6379,1912,M
+365,North Bennet Street Gymnasium,NBG,men,1148,1917,M
+395,North Bennet Street Gymnasium,NBG,women,502,1917,F
+49,North Bennet Street Gymnasium,NBG,girls,4409,1910,F
+13,North Bennet Street Gymnasium,NBG,women and girls,3283,1909,F
+174,North Bennet Street Gymnasium,NBG,school boys,9639,1913,M
+330,North Bennet Street Gymnasium,NBG,women,1163,1916,F
+6,North Bennet Street Gymnasium,NBG,men and boys,3507,1909,M
+151,North Bennet Street Gymnasium,NBG,mothers,1003,1912,F
+340,North Bennet Street Gymnasium,NBG,girls,2627,1916,F
+267,North Bennet Street Gymnasium,NBG,girls,2465,1915,F
+91,North Bennet Street Gymnasium,NBG,girls,4408,1911,F
+109,North Bennet Street Gymnasium,NBG,individual,1643,1912,Individual
+156,North Bennet Street Gymnasium,NBG,individual,3010,1913,Individual
+85,North Bennet Street Gymnasium,NBG,school boys,7819,1911,M
+144,North Bennet Street Gymnasium,NBG,women,469,1912,F
+310,North Bennet Street Gymnasium,NBG,school boys,7735,1916,M
+227,North Bennet Street Gymnasium,NBG,men,2545,1915,M
+73,North Bennet Street Gymnasium,NBG,men,3606,1911,M
+201,North Bennet Street Gymnasium,NBG,girls,2785,1913,F
+61,North Bennet Street Gymnasium,NBG,mothers,997,1910,F
+237,North Bennet Street Gymnasium,NBG,school boys,7645,1915,M
+257,North Bennet Street Gymnasium,NBG,women,674,1915,F
+290,North Bennet Street Gymnasium,NBG,individual,4094,1916,Individual
+183,North Bennet Street Gymnasium,NBG,working boys,1502,1913,M
+37,North Bennet Street Gymnasium,NBG,working boys,908,1910,M
+67,North Bennet Street Gymnasium,NBG,individual,3158,1911,Individual
+25,North Bennet Street Gymnasium,NBG,individual,3158,1910,Individual
+43,North Bennet Street Gymnasium,NBG,school boys,7819,1910,M
+385,North Bennet Street Gymnasium,NBG,working boys,789,1917,M
+320,North Bennet Street Gymnasium,NBG,working boys,1863,1916,M
+405,North Bennet Street Gymnasium,NBG,girls,2638,1917,F
+97,North Bennet Street Gymnasium,NBG,women,1529,1911,F
+116,North Bennet Street Gymnasium,NBG,men,4993,1912,M
+217,North Bennet Street Gymnasium,NBG,individual,4039,1915,Individual
+355,North Bennet Street Gymnasium,NBG,individual,1962,1917,Individual
+79,North Bennet Street Gymnasium,NBG,working boys,908,1911,M
+137,North Bennet Street Gymnasium,NBG,girls,3251,1912,F
+210,North Bennet Street Gymnasium,NBG,mothers,1774,1913,F
+20,North Bennet Street Gymnasium,NBG,individual,1959,1909,Individual
+375,North Bennet Street Gymnasium,NBG,school boys,6298,1917,M
+277,North Bennet Street Gymnasium,NBG,mothers,0,1915,F
+192,North Bennet Street Gymnasium,NBG,women,2240,1913,F
+300,North Bennet Street Gymnasium,NBG,men,2373,1916,M
+123,North Bennet Street Gymnasium,NBG,working boys,959,1912,M
+31,North Bennet Street Gymnasium,NBG,men,3606,1910,M
+55,North Bennet Street Gymnasium,NBG,women,1529,1910,F
+103,North Bennet Street Gymnasium,NBG,mothers,997,1911,F
+247,North Bennet Street Gymnasium,NBG,working boys,1520,1915,M
+165,North Bennet Street Gymnasium,NBG,men,5563,1913,M
+494,North Bennet Street Gymnasium,NBG,individual,2195,1919,Individual
+504,North Bennet Street Gymnasium,NBG,men,910,1919,M
+514,North Bennet Street Gymnasium,NBG,school boys,2300,1919,M
+524,North Bennet Street Gymnasium,NBG,working boys,265,1919,M
+534,North Bennet Street Gymnasium,NBG,women,665,1919,F
+544,North Bennet Street Gymnasium,NBG,girls,1100,1919,F
+554,North Bennet Street Gymnasium,NBG,mothers,0,1919,F
+164,Cabot Street Gymnasium,CSG,men,5571,1913,M
+66,Cabot Street Gymnasium,CSG,individual,8184,1911,Individual
+14,Cabot Street Gymnasium,CSG,women and girls,10230,1909,F
+96,Cabot Street Gymnasium,CSG,women,3436,1911,F
+216,Cabot Street Gymnasium,CSG,individual,5424,1915,Individual
+226,Cabot Street Gymnasium,CSG,men,3916,1915,M
+246,Cabot Street Gymnasium,CSG,working boys,3897,1915,M
+21,Cabot Street Gymnasium,CSG,individual,10745,1909,Individual
+276,Cabot Street Gymnasium,CSG,mothers,409,1915,F
+391,Cabot Street Gymnasium,CSG,women,395,1917,F
+296,Cabot Street Gymnasium,CSG,men,4673,1916,M
+143,Cabot Street Gymnasium,CSG,women,3629,1912,F
+182,Cabot Street Gymnasium,CSG,working boys,3175,1913,M
+36,Cabot Street Gymnasium,CSG,working boys,901,1910,M
+150,Cabot Street Gymnasium,CSG,mothers,2138,1912,F
+102,Cabot Street Gymnasium,CSG,mothers,2160,1911,F
+60,Cabot Street Gymnasium,CSG,mothers,2160,1910,F
+48,Cabot Street Gymnasium,CSG,girls,4120,1910,F
+361,Cabot Street Gymnasium,CSG,men,3089,1917,M
+336,Cabot Street Gymnasium,CSG,girls,5339,1916,F
+200,Cabot Street Gymnasium,CSG,girls,4830,1913,F
+155,Cabot Street Gymnasium,CSG,individual,9173,1913,Individual
+24,Cabot Street Gymnasium,CSG,individual,8184,1910,Individual
+90,Cabot Street Gymnasium,CSG,girls,4120,1911,F
+108,Cabot Street Gymnasium,CSG,individual,13377,1912,Individual
+236,Cabot Street Gymnasium,CSG,school boys,5965,1915,M
+371,Cabot Street Gymnasium,CSG,school boys,12646,1917,M
+42,Cabot Street Gymnasium,CSG,school boys,4803,1910,M
+256,Cabot Street Gymnasium,CSG,women,1732,1915,F
+7,Cabot Street Gymnasium,CSG,men and boys,14544,1909,M
+286,Cabot Street Gymnasium,CSG,individual,11689,1916,Individual
+78,Cabot Street Gymnasium,CSG,working boys,901,1911,M
+209,Cabot Street Gymnasium,CSG,mothers,993,1913,F
+30,Cabot Street Gymnasium,CSG,men,5004,1910,M
+136,Cabot Street Gymnasium,CSG,girls,4460,1912,F
+401,Cabot Street Gymnasium,CSG,girls,6524,1917,F
+72,Cabot Street Gymnasium,CSG,men,5003,1911,M
+122,Cabot Street Gymnasium,CSG,working boys,2210,1912,M
+54,Cabot Street Gymnasium,CSG,women,3436,1910,F
+326,Cabot Street Gymnasium,CSG,women,1828,1916,F
+129,Cabot Street Gymnasium,CSG,school boys,10318,1912,M
+191,Cabot Street Gymnasium,CSG,women,4701,1913,F
+381,Cabot Street Gymnasium,CSG,working boys,2755,1917,M
+115,Cabot Street Gymnasium,CSG,men,6826,1912,M
+306,Cabot Street Gymnasium,CSG,school boys,9749,1916,M
+316,Cabot Street Gymnasium,CSG,working boys,3804,1916,M
+84,Cabot Street Gymnasium,CSG,school boys,4803,1911,M
+173,Cabot Street Gymnasium,CSG,school boys,9562,1913,M
+351,Cabot Street Gymnasium,CSG,individual,7784,1917,Individual
+266,Cabot Street Gymnasium,CSG,girls,3275,1915,F
+416,Cabot Street Gymnasium,CSG,individual,1415,1918,Individual
+425,Cabot Street Gymnasium,CSG,men,1508,1918,M
+434,Cabot Street Gymnasium,CSG,school boys,3875,1918,M
+443,Cabot Street Gymnasium,CSG,working boys,1487,1918,M
+452,Cabot Street Gymnasium,CSG,women,145,1918,F
+461,Cabot Street Gymnasium,CSG,girls,2070,1918,F
+478,Cabot Street Gymnasium,CSG,individual,655,1919,Individual
+495,Cabot Street Gymnasium,CSG,men,1665,1919,M
+505,Cabot Street Gymnasium,CSG,school boys,4040,1919,M
+515,Cabot Street Gymnasium,CSG,working boys,1847,1919,M
+525,Cabot Street Gymnasium,CSG,women,883,1919,F
+535,Cabot Street Gymnasium,CSG,girls,2963,1919,F
+545,Cabot Street Gymnasium,CSG,mothers,0,1919,F
+283,Curtis Hall Gymnasium,CHG,mothers,2685,1915,F
+171,Curtis Hall Gymnasium,CHG,men,6835,1913,M
+287,Curtis Hall Gymnasium,CHG,individual,4245,1916,Individual
+243,Curtis Hall Gymnasium,CHG,school boys,5605,1915,M
+263,Curtis Hall Gymnasium,CHG,women,4870,1915,F
+307,Curtis Hall Gymnasium,CHG,school boys,7055,1916,M
+207,Curtis Hall Gymnasium,CHG,girls,6035,1913,F
+180,Curtis Hall Gymnasium,CHG,school boys,8255,1913,M
+346,Curtis Hall Gymnasium,CHG,mothers,2615,1916,F
+297,Curtis Hall Gymnasium,CHG,men,3300,1916,M
+233,Curtis Hall Gymnasium,CHG,men,3510,1915,M
+253,Curtis Hall Gymnasium,CHG,working boys,4180,1915,M
+337,Curtis Hall Gymnasium,CHG,girls,4895,1916,F
+223,Curtis Hall Gymnasium,CHG,individual,3535,1915,Individual
+327,Curtis Hall Gymnasium,CHG,women,4750,1916,F
+317,Curtis Hall Gymnasium,CHG,working boys,4380,1916,M
+214,Curtis Hall Gymnasium,CHG,mothers,2705,1913,F
+411,Curtis Hall Gymnasium,CHG,mothers,2110,1917,F
+392,Curtis Hall Gymnasium,CHG,women,3037,1917,F
+372,Curtis Hall Gymnasium,CHG,school boys,4133,1917,M
+189,Curtis Hall Gymnasium,CHG,working boys,6185,1913,M
+382,Curtis Hall Gymnasium,CHG,working boys,2328,1917,M
+162,Curtis Hall Gymnasium,CHG,individual,5335,1913,Individual
+402,Curtis Hall Gymnasium,CHG,girls,3164,1917,F
+362,Curtis Hall Gymnasium,CHG,men,1699,1917,M
+198,Curtis Hall Gymnasium,CHG,women,7890,1913,F
+273,Curtis Hall Gymnasium,CHG,girls,4880,1915,F
+352,Curtis Hall Gymnasium,CHG,individual,3362,1917,Individual
+417,Curtis Hall Gymnasium,CHG,individual,1021,1918,Individual
+426,Curtis Hall Gymnasium,CHG,men,314,1918,M
+435,Curtis Hall Gymnasium,CHG,school boys,1981,1918,M
+444,Curtis Hall Gymnasium,CHG,working boys,916,1918,M
+453,Curtis Hall Gymnasium,CHG,women,1554,1918,F
+462,Curtis Hall Gymnasium,CHG,girls,162,1918,F
+470,Curtis Hall Gymnasium,CHG,mothers,274,1918,F
+486,Curtis Hall Gymnasium,CHG,individual,1331,1919,Individual
+496,Curtis Hall Gymnasium,CHG,men,1005,1919,M
+506,Curtis Hall Gymnasium,CHG,school boys,2958,1919,M
+516,Curtis Hall Gymnasium,CHG,working boys,1820,1919,M
+526,Curtis Hall Gymnasium,CHG,women,987,1919,F
+536,Curtis Hall Gymnasium,CHG,girls,1145,1919,F
+546,Curtis Hall Gymnasium,CHG,mothers,66,1919,F
+254,Ward 3 Gymnasium,BHG,working boys,2080,1915,M
+274,Ward 3 Gymnasium,BHG,girls,3862,1915,F
+284,Ward 3 Gymnasium,BHG,mothers,1911,1915,F
+199,Ward 3 Gymnasium,BHG,women,1846,1913,F
+224,Ward 3 Gymnasium,BHG,individual,2428,1915,Individual
+234,Ward 3 Gymnasium,BHG,men,1689,1915,M
+172,Ward 3 Gymnasium,BHG,men,2160,1913,M
+181,Ward 3 Gymnasium,BHG,school boys,3450,1913,M
+215,Ward 3 Gymnasium,BHG,mothers,765,1913,F
+208,Ward 3 Gymnasium,BHG,girls,4437,1913,F
+190,Ward 3 Gymnasium,BHG,working boys,1775,1913,M
+264,Ward 3 Gymnasium,BHG,women,1797,1915,F
+244,Ward 3 Gymnasium,BHG,school boys,3219,1915,M
+163,Ward 3 Gymnasium,BHG,individual,3279,1913,Individual
+255,Ward 17 Gymnasium,VSG,working boys,609,1915,M
+360,Ward 17 Gymnasium,CRG,individual,3086,1917,Individual
+350,Ward 17 Gymnasium,CRG,mothers,6516,1916,F
+380,Ward 17 Gymnasium,CRG,school boys,11927,1917,M
+325,Ward 17 Gymnasium,CRG,working boys,6051,1916,M
+245,Ward 17 Gymnasium,VSG,school boys,4647,1915,M
+410,Ward 17 Gymnasium,CRG,girls,11351,1917,F
+400,Ward 17 Gymnasium,CRG,women,6714,1917,F
+295,Ward 17 Gymnasium,CRG,individual,3225,1916,Individual
+335,Ward 17 Gymnasium,CRG,women,6625,1916,F
+345,Ward 17 Gymnasium,CRG,girls,11593,1916,F
+370,Ward 17 Gymnasium,CRG,men,7865,1917,M
+315,Ward 17 Gymnasium,CRG,school boys,15082,1916,M
+265,Ward 17 Gymnasium,VSG,women,1765,1915,F
+390,Ward 17 Gymnasium,CRG,working boys,2724,1917,M
+235,Ward 17 Gymnasium,VSG,men,1262,1915,M
+305,Ward 17 Gymnasium,CRG,men,7726,1916,M
+275,Ward 17 Gymnasium,VSG,girls,3666,1915,F
+285,Ward 17 Gymnasium,VSG,mothers,721,1915,F
+415,Ward 17 Gymnasium,CRG,mothers,4447,1917,F
+225,Ward 17 Gymnasium,VSG,individual,1546,1915,Individual
+424,Ward 17 Gymnasium,CRG,individual,659,1918,Individual
+433,Ward 17 Gymnasium,CRG,men,2151,1918,M
+442,Ward 17 Gymnasium,CRG,school boys,5797,1918,M
+451,Ward 17 Gymnasium,CRG,working boys,1360,1918,M
+460,Ward 17 Gymnasium,CRG,women,2089,1918,F
+469,Ward 17 Gymnasium,CRG,girls,6625,1918,F
+474,Ward 17 Gymnasium,CRG,mothers,509,1918,F
+492,Ward 17 Gymnasium,CRG,individual,1815,1919,Individual
+502,Ward 17 Gymnasium,CRG,men,5183,1919,M
+512,Ward 17 Gymnasium,CRG,school boys,9333,1919,M
+522,Ward 17 Gymnasium,CRG,working boys,4600,1919,M
+532,Ward 17 Gymnasium,CRG,women,3560,1919,F
+542,Ward 17 Gymnasium,CRG,girls,9400,1919,F
+552,Ward 17 Gymnasium,CRG,mothers,703,1919,F
+356,Ward 4 Gymnasium,BHG,individual,1086,1917,Individual
+366,Ward 4 Gymnasium,BHG,men,1517,1917,M
+301,Ward 4 Gymnasium,BHG,men,2037,1916,M
+321,Ward 4 Gymnasium,BHG,working boys,1552,1916,M
+396,Ward 4 Gymnasium,BHG,women,1080,1917,F
+376,Ward 4 Gymnasium,BHG,school boys,4128,1917,M
+341,Ward 4 Gymnasium,BHG,girls,4852,1916,F
+291,Ward 4 Gymnasium,BHG,individual,1417,1916,Individual
+347,Ward 4 Gymnasium,BHG,mothers,2119,1916,F
+311,Ward 4 Gymnasium,BHG,school boys,5085,1916,M
+386,Ward 4 Gymnasium,BHG,working boys,1017,1917,M
+412,Ward 4 Gymnasium,BHG,mothers,2085,1917,F
+406,Ward 4 Gymnasium,BHG,girls,3966,1917,F
+331,Ward 4 Gymnasium,BHG,women,1581,1916,F
+420,Ward 4 Gymnasium,BHG,individual,177,1918,Individual
+429,Ward 4 Gymnasium,BHG,men,441,1918,M
+438,Ward 4 Gymnasium,BHG,school boys,1512,1918,M
+447,Ward 4 Gymnasium,BHG,working boys,571,1918,M
+456,Ward 4 Gymnasium,BHG,women,401,1918,F
+465,Ward 4 Gymnasium,BHG,girls,1487,1918,F
+472,Ward 4 Gymnasium,BHG,mothers,1004,1918,F
+489,Ward 4 Gymnasium,BHG,individual,237,1919,Individual
+499,Ward 4 Gymnasium,BHG,men,925,1919,M
+509,Ward 4 Gymnasium,BHG,school boys,2846,1919,M
+519,Ward 4 Gymnasium,BHG,working boys,1054,1919,M
+529,Ward 4 Gymnasium,BHG,women,798,1919,F
+539,Ward 4 Gymnasium,BHG,girls,3513,1919,F
+549,Ward 4 Gymnasium,BHG,mothers,1466,1919,F
+342,Ward 5 Gymnasium,TSG,girls,3370,1916,F
+397,Ward 5 Gymnasium,TSG,women,1176,1917,F
+377,Ward 5 Gymnasium,TSG,school boys,6174,1917,M
+357,Ward 5 Gymnasium,TSG,individual,1701,1917,Individual
+292,Ward 5 Gymnasium,TSG,individual,2398,1916,Individual
+332,Ward 5 Gymnasium,TSG,women,1229,1916,F
+322,Ward 5 Gymnasium,TSG,working boys,1285,1916,M
+407,Ward 5 Gymnasium,TSG,girls,1696,1917,F
+367,Ward 5 Gymnasium,TSG,men,2213,1917,M
+387,Ward 5 Gymnasium,TSG,working boys,297,1917,M
+302,Ward 5 Gymnasium,TSG,men,2395,1916,M
+312,Ward 5 Gymnasium,TSG,school boys,8349,1916,M
+421,Ward 5 Gymnasium,TSG,individual,1507,1918,Individual
+430,Ward 5 Gymnasium,TSG,men,1086,1918,M
+439,Ward 5 Gymnasium,TSG,school boys,3323,1918,M
+448,Ward 5 Gymnasium,TSG,working boys,470,1918,M
+457,Ward 5 Gymnasium,TSG,women,546,1918,F
+466,Ward 5 Gymnasium,TSG,girls,2933,1918,F
+490,Ward 5 Gymnasium,TSG,individual,1252,1919,Individual
+500,Ward 5 Gymnasium,TSG,men,1101,1919,M
+510,Ward 5 Gymnasium,TSG,school boys,4542,1919,M
+520,Ward 5 Gymnasium,TSG,working boys,2374,1919,M
+530,Ward 5 Gymnasium,TSG,women,654,1919,F
+540,Ward 5 Gymnasium,TSG,girls,2658,1919,F
+550,Ward 5 Gymnasium,TSG,mothers,0,1919,F
+343,Ward 6 Gymnasium,HPG,girls,1973,1916,F
+333,Ward 6 Gymnasium,HPG,women,190,1916,F
+413,Ward 6 Gymnasium,HPG,mothers,422,1917,F
+323,Ward 6 Gymnasium,HPG,working boys,1140,1916,M
+303,Ward 6 Gymnasium,HPG,men,1891,1916,M
+358,Ward 6 Gymnasium,HPG,individual,768,1917,Individual
+368,Ward 6 Gymnasium,HPG,men,782,1917,M
+398,Ward 6 Gymnasium,HPG,women,186,1917,F
+378,Ward 6 Gymnasium,HPG,school boys,3188,1917,M
+348,Ward 6 Gymnasium,HPG,mothers,29,1916,F
+313,Ward 6 Gymnasium,HPG,school boys,5844,1916,M
+408,Ward 6 Gymnasium,HPG,girls,1276,1917,F
+388,Ward 6 Gymnasium,HPG,working boys,600,1917,M
+293,Ward 6 Gymnasium,HPG,individual,1509,1916,Individual
+422,Ward 6 Gymnasium,HPG,individual,425,1918,Individual
+431,Ward 6 Gymnasium,HPG,men,270,1918,M
+440,Ward 6 Gymnasium,HPG,school boys,1105,1918,M
+449,Ward 6 Gymnasium,HPG,working boys,237,1918,M
+458,Ward 6 Gymnasium,HPG,women,262,1918,F
+467,Ward 6 Gymnasium,HPG,girls,766,1918,F
+314,Ward 12 Gymnasium,VSG,school boys,8887,1916,M
+409,Ward 12 Gymnasium,VSG,girls,6314,1917,F
+334,Ward 12 Gymnasium,VSG,women,3366,1916,F
+359,Ward 12 Gymnasium,VSG,individual,4477,1917,Individual
+324,Ward 12 Gymnasium,VSG,working boys,2149,1916,M
+414,Ward 12 Gymnasium,VSG,mothers,1602,1917,F
+379,Ward 12 Gymnasium,VSG,school boys,8524,1917,M
+399,Ward 12 Gymnasium,VSG,women,3908,1917,F
+389,Ward 12 Gymnasium,VSG,working boys,1190,1917,M
+344,Ward 12 Gymnasium,VSG,girls,8016,1916,F
+294,Ward 12 Gymnasium,VSG,individual,4218,1916,Individual
+369,Ward 12 Gymnasium,VSG,men,3199,1917,M
+349,Ward 12 Gymnasium,VSG,mothers,1600,1916,F
+304,Ward 12 Gymnasium,VSG,men,3581,1916,M
+423,Ward 12 Gymnasium,VSG,individual,2141,1918,Individual
+432,Ward 12 Gymnasium,VSG,men,1266,1918,M
+441,Ward 12 Gymnasium,VSG,school boys,4863,1918,M
+450,Ward 12 Gymnasium,VSG,working boys,355,1918,M
+459,Ward 12 Gymnasium,VSG,women,1072,1918,F
+468,Ward 12 Gymnasium,VSG,girls,3977,1918,F
+473,Ward 12 Gymnasium,VSG,mothers,44,1918,F
+491,Ward 12 Gymnasium,VSG,individual,7030,1919,Individual
+501,Ward 12 Gymnasium,VSG,men,1315,1919,M
+511,Ward 12 Gymnasium,VSG,school boys,5757,1919,M
+521,Ward 12 Gymnasium,VSG,working boys,560,1919,M
+531,Ward 12 Gymnasium,VSG,women,853,1919,F
+541,Ward 12 Gymnasium,VSG,girls,4385,1919,F
+551,Ward 12 Gymnasium,VSG,mothers,685,1919,F
+419,Roslindale Building,RG,individual,193,1918,Individual
+428,Roslindale Building,RG,men,431,1918,M
+437,Roslindale Building,RG,school boys,1443,1918,M
+446,Roslindale Building,RG,working boys,291,1918,M
+455,Roslindale Building,RG,women,888,1918,F
+464,Roslindale Building,RG,girls,1060,1918,F
+471,Roslindale Building,RG,mothers,34,1918,F
+488,Roslindale Building,RG,individual,630,1919,Individual
+498,Roslindale Building,RG,men,1669,1919,M
+508,Roslindale Building,RG,school boys,6559,1919,M
+518,Roslindale Building,RG,working boys,1667,1919,M
+528,Roslindale Building,RG,women,3784,1919,F
+538,Roslindale Building,RG,girls,4085,1919,F
+548,Roslindale Building,RG,mothers,34,1919,F
