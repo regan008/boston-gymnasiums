@@ -4,6 +4,7 @@ library(geojson)
 library(htmlwidgets)
 library(htmltools)
 library(rgdal)
+library(artyfarty)
 
 boston <- read.csv("gyms.csv", stringsAsFactors=F)
 bostoneight <- readOGR("boston_wards_1915_1925.shp")
