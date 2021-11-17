@@ -9,11 +9,11 @@ shinyServer(function(input, output, session) {
   
   data.selected <- reactive({
     #Filter to map year
-    map.data <- data %>% filter(Year == input$map.year)
+    map.data <- total.yearly.attendance %>% filter(Year == input$map.year)
     
     map.data
   })
-  
+ 
   output$spaces_map <- renderLeaflet({
     leaflet() %>%
       addProviderTiles("CartoDB.Positron") %>%
@@ -23,9 +23,13 @@ shinyServer(function(input, output, session) {
                 label = ~Ward_Num,
                 stroke = TRUE,
                 fillOpacity = .2, 
-                smoothFactor = 0.5)
+                smoothFactor = 0.5) %>%
+      addCircleMarkers(data=privategyms, label=~name,
+                       weight = 1, 
+                       radius=3,
+                       color="#FF0000")
     
-  })
+  })  
   pal <- colorFactor(
     palette = c('green', 'purple', 'orange'),
     domain = data$type
@@ -39,10 +43,10 @@ shinyServer(function(input, output, session) {
       clearPopups()
     
     leafletProxy("spaces_map", data = df) %>%
-      addCircleMarkers(data=data, label=~gym.name,
+      addCircleMarkers(data=df, label=~name,
                        weight = 1, 
-                       radius=5,
-                       color=~pal(type.x))
+                       radius=~total/1000,
+                       color="#0000FF")
     
   }) # End Observe
   observeEvent(input$reset_button, {
