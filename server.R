@@ -39,8 +39,7 @@ shinyServer(function(input, output, session) {
     df <- data.selected()
     
     leafletProxy("spaces_map", session) %>%
-      clearMarkerClusters() %>%
-      clearPopups()
+      clearShapes() %>% clearMarkers() %>% clearPopups()
     
     leafletProxy("spaces_map", data = df) %>%
       addCircleMarkers(data=df, label=~name,
