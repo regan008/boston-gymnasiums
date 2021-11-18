@@ -1,6 +1,6 @@
 library("shiny")
 library("leaflet")
-library("dplyr")
+require("dplyr")
 library("highcharter")
 
 shinyServer(function(input, output, session) {
@@ -10,9 +10,11 @@ shinyServer(function(input, output, session) {
     map.data <- yearly.attendance.bygym %>% filter(Year == input$map.year)
     map.data
   })
+  
   output$yearlyattendancechart <- renderHighchart({
-    attdata <- yearly.attendance.bygym %>% group_by(Year) %>% summarize(yearly.total = sum(total))
-    hchart(attdata, "line", hcaes(x=Year, y=yearly.total)) %>% hc_title(text="Gymnasia Attendance, 1909-192?") %>% hc_yAxis(title = list(text ="Total Attendance at Municipal Gymnasia", minorGridLineDashStyle = "LongDashDotDot")) %>% hc_xAxis(plotBands = list(
+      attdata <- yearly.attendance.bygym %>% group_by(Year) %>%   summarize(yearly.total = sum(total))
+    
+      hchart(attdata, "line", hcaes(x=Year, y=yearly.total)) %>% hc_title(text="Gymnasia Attendance, 1909-192?") %>% hc_yAxis(title = list(text ="Total Attendance at Municipal Gymnasia", minorGridLineDashStyle = "LongDashDotDot")) %>% hc_xAxis(plotBands = list(
       list(
         from = 1918,
         to = 1920,
@@ -21,21 +23,16 @@ shinyServer(function(input, output, session) {
       )))
     
   })
+  
   output$spaces_map <- renderLeaflet({
     leaflet() %>%
       addProviderTiles("CartoDB.Positron") %>%
-      setView(-71.061229, 42.357379, zoom = 12) %>%
-     addPolygons(data=bostonwards,
-                col = 'dodgerblue',
-                label = ~Ward_Num,
-                stroke = TRUE,
-                fillOpacity = .2, 
-                smoothFactor = 0.5)
+      setView(-71.061229, 42.357379, zoom = 12) 
   })  
-  pal <- colorFactor(
-    palette = c('green', 'purple', 'orange'),
-    domain = data$type
-  )
+ # pal <- colorFactor(
+ #   palette = c('green', 'purple', 'orange'),
+ #   domain = data$type
+ # )
   observe({
     
     df <- data.selected()
@@ -44,14 +41,22 @@ shinyServer(function(input, output, session) {
       clearShapes() %>% clearMarkers() %>% clearPopups()
     
     leafletProxy("spaces_map", data = df) %>%
+      addPolygons(data=bostonwards,
+                  col = "#ababab",
+                  label = ~Ward_Num,
+                  stroke = TRUE,
+                  weight= 1,
+                  fillOpacity = .5, 
+                  smoothFactor = 0.5) %>% 
       addCircleMarkers(data=df, label=~name,
-                       weight = 1, 
-                       radius=3,
-                       color="#0000FF") %>%
+                       weight = 2, 
+                       radius=5,
+                       color="#D2042D") %>%
       addCircleMarkers(data=privategyms, label=~name,
-                     weight = 1, 
-                     radius=3,
-                     color="#FF0000")
+                     weight = 2, 
+                     radius=5,
+                     color="#702963")
+      
   
   }) # End Observe
   observeEvent(input$reset_button, {
