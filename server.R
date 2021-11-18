@@ -23,11 +23,8 @@ shinyServer(function(input, output, session) {
                 label = ~Ward_Num,
                 stroke = TRUE,
                 fillOpacity = .2, 
-                smoothFactor = 0.5) %>%
-      addCircleMarkers(data=privategyms, label=~name,
-                       weight = 1, 
-                       radius=3,
-                       color="#FF0000")
+                smoothFactor = 0.5)
+      
     
   })  
   pal <- colorFactor(
@@ -45,7 +42,11 @@ shinyServer(function(input, output, session) {
       addCircleMarkers(data=df, label=~name,
                        weight = 1, 
                        radius=~total/1000,
-                       color="#0000FF")
+                       color="#0000FF") %>%
+      addCircleMarkers(data=privategyms, label=~name,
+                     weight = 1, 
+                     radius=3,
+                     color="#FF0000")
     
   }) # End Observe
   observeEvent(input$reset_button, {

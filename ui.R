@@ -12,6 +12,8 @@ ui <- fluidPage(
                 type="text/javascript")
     #tags$script(src="https://kit.fontawesome.com/e7de980416.js", type="text/javascript")
   ),  
+  navbarPage("Boston Gymnasiums",
+  tabPanel("Home",
   fluidRow(
     column(12,
            leafletOutput("spaces_map"),
@@ -27,7 +29,21 @@ ui <- fluidPage(
            #  includeHTML("nodatanotice.html")
           # )
            )
+  )),
+  tabPanel("Attendance",
+           fluidRow(
+             column(12,
+                    leafletOutput("spaces_map2"),
+                    sliderTextInput("map.year", "Year",
+                                    choices = rng,
+                                    selected = rng[1],
+                                    grid = T,
+                                    width = "100%"),
+                    actionButton("reset_button", "Reset Filters",
+                                 icon = icon("repeat"), class = "btn-warning btn-sm")
+             )
   ),
+  ),),
   HTML('<div data-iframe-height></div>')
   
 )
