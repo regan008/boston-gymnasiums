@@ -1,7 +1,8 @@
 library(rgdal)
 attendance <- read.csv("data-attendance.csv", stringsAsFactors=F)
-total.yearly.attendance <- attendance %>% group_by(Year, gymid) %>% summarize(total = sum(attendance)) 
-total.yearly.attendance <- left_join(total.yearly.attendance, gyms, by="gymid")
+yearly.attendance.bygym <- attendance %>% group_by(Year, gymid) %>% summarize(total = sum(attendance)) 
+yearly.attendance.bygym <- left_join(yearly.attendance.bygym, gyms, by="gymid")
+
 gyms <- read.csv("data-gymnasiums.csv", stringsAsFactors = FALSE)
 data <- left_join(attendance, gyms, by="gymid")
 bostonwards <- readOGR("Ward-Shapfiles/boston_wards_1915_1925.shp")

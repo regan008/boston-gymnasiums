@@ -93,3 +93,9 @@ bostonmap1915 <- leaflet(bostongymnasiums) %>%
                    radius= ~total/1000, 
                    color=~pal(type))
 bostonmap1915
+
+
+library(highcharter)
+
+total.yearly.attendance.single <- total.yearly.attendance %>% group_by(Year) %>% summarize(yearly.total = sum(total))
+hchart(total.yearly.attendance.single, "line", hcaes(x=Year, y=yearly.total ))

@@ -13,7 +13,7 @@ ui <- fluidPage(
     #tags$script(src="https://kit.fontawesome.com/e7de980416.js", type="text/javascript")
   ),  
   navbarPage("Boston Gymnasiums",
-  tabPanel("Home",
+  tabPanel("Overview",
   fluidRow(
     column(12,
            leafletOutput("spaces_map"),
@@ -28,9 +28,12 @@ ui <- fluidPage(
           #  condition = "input['map.year'] == 1967",
            #  includeHTML("nodatanotice.html")
           # )
+           ),
+    column(12, 
+           highchartOutput("yearlyattendancechart", width = "100%", height = "400px")
            )
   )),
-  tabPanel("Attendance",
+  tabPanel("Locations",
            fluidRow(
              column(12,
                     leafletOutput("spaces_map2"),
