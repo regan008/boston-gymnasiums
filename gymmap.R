@@ -7,12 +7,12 @@ library(rgdal)
 library(artyfarty)
 
 boston <- read.csv("gyms.csv", stringsAsFactors=F)
-bostoneight <- readOGR("boston_wards_1915_1925.shp")
+bostoneight <- readOGR("Ward-Shapfiles/boston_wards_1915_1925.shp")
 bostoneight <- spTransform(bostoneight, CRS("+proj=longlat +ellps=GRS80"))
 
 pal <- colorFactor(
   palette = c('red', 'blue', 'green', 'purple', 'orange'),
-  domain = boston$type
+  domain = parks$type
 )
 boston1895to1912<- readOGR("Ward-Shapfiles/boston_wards_1895_1912.shp")
 boston1895to1912 <- spTransform(bostoneight, CRS("+proj=longlat +ellps=GRS80"))
@@ -95,7 +95,37 @@ bostonmap1915 <- leaflet(bostongymnasiums) %>%
 bostonmap1915
 
 
+parks <- read.csv("playground-attendance.csv", stringsAsFactors = FALSE)
+parks <- parks %>% group_by(year) %>% summarize(total = sum(attendance))
+
+hchart(parks, "line", hcaes(x=year, y=total ))
 library(highcharter)
 
 total.yearly.attendance.single <- total.yearly.attendance %>% group_by(Year) %>% summarize(yearly.total = sum(total))
 hchart(total.yearly.attendance.single, "line", hcaes(x=Year, y=yearly.total ))
+
+
+parks <- read.csv("playgrounds.csv", stringsAsFactors = FALSE)
+parkattendance <- read.csv("playground-attendance.csv", stringsAsFactors = FALSE)
+parks <- left_join(parks, parkattendance, by="name")
+parks <- parks %>% filter(year == 1919)
+bostonparks <- leaflet(parks) %>% 
+  addProviderTiles("CartoDB.Positron") %>%
+  setView(-71.061229, 42.357379, zoom = 13) %>% 
+  addPolygons(data=bostoneight,
+              col = 'dodgerblue',
+              label = ~Ward_Num,
+              stroke = TRUE,
+              fillOpacity = .2, 
+              smoothFactor = 0.5) %>%
+  addCircleMarkers(label=~name,
+                   weight = 3, 
+                   radius= ~attendance/20000, 
+                   color=~pal(type))
+bostonparks
+
+
+yearlyattendance %>% filter(year==1918) %>% count(type)
+
+
+

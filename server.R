@@ -7,14 +7,15 @@ shinyServer(function(input, output, session) {
   
   data.selected <- reactive({
     #Filter to map year
-    map.data <- yearly.attendance.bygym %>% filter(Year == input$map.year)
+    map.data <- yearlyattendance %>% filter(year == input$map.year)
     map.data
   })
-  
+
   output$yearlyattendancechart <- renderHighchart({
-      attdata <- yearly.attendance.bygym %>% group_by(Year) %>%   summarize(yearly.total = sum(total))
-    
-      hchart(attdata, "line", hcaes(x=Year, y=yearly.total)) %>% hc_title(text="Gymnasia Attendance, 1909-192?") %>% hc_yAxis(title = list(text ="Total Attendance at Municipal Gymnasia", minorGridLineDashStyle = "LongDashDotDot")) %>% hc_xAxis(plotBands = list(
+      attdata <- yearlyattendance %>% group_by(year, type) %>% summarize(yattendance = sum(attendance))
+      attcount <- yearlyattendance %>% group_by(year) %>% count(type)
+      attdata <- merge(attdata, attcount)
+      hchart(attdata, "line", hcaes(x=year, y=yattendance/n, group="type")) %>% hc_title(text="Average Attendance, 1909-192?") %>% hc_yAxis(title = list(text ="Total Attendance at Municipal Gymnasia", minorGridLineDashStyle = "LongDashDotDot")) %>% hc_xAxis(plotBands = list(
       list(
         from = 1918,
         to = 1920,
@@ -27,7 +28,11 @@ shinyServer(function(input, output, session) {
   output$spaces_map <- renderLeaflet({
     leaflet() %>%
       addProviderTiles("CartoDB.Positron") %>%
-      setView(-71.061229, 42.357379, zoom = 12) 
+      setView(-71.061229, 42.357379, zoom = 12) %>%
+      addCircleMarkers(data=data.selected(), label=~name,
+                       weight = 3, 
+                       radius= ~attendance/10000, 
+                       color="#E4D00A")
   })  
  # pal <- colorFactor(
  #   palette = c('green', 'purple', 'orange'),
@@ -46,7 +51,7 @@ shinyServer(function(input, output, session) {
                   label = ~Ward_Num,
                   stroke = TRUE,
                   weight= 1,
-                  fillOpacity = .5, 
+                  fillOpacity = .3, 
                   smoothFactor = 0.5) %>% 
       addCircleMarkers(data=df, label=~name,
                        weight = 2, 
@@ -56,6 +61,7 @@ shinyServer(function(input, output, session) {
                      weight = 2, 
                      radius=5,
                      color="#702963")
+   
       
   
   }) # End Observe

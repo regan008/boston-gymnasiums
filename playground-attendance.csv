@@ -1,0 +1,190 @@
+﻿id,name,location-name,year,attendance
+1,Ashmont Playground,Ashmont Playground,1915,118811
+2,Billings Field,Billings Field,1915,86812
+3,Columbus Avenue Playground,Columbus Avenue Playground,1915,129130
+4,Cottage Street Playground,Cottage Street Playground,1915,138383
+5,Charlestown Playground,Charlestown Playground,1915,197209
+6,"""Charlesbank, Women's gymnasium""","Charlesbank, Women's gymnasium",1915,1915
+7,"""Charlesbank, men's gymnasium""","Charlesbank, men's gymnasium",1915,144108
+8,Commonwealth Park,Commonwealth Park,1915,130575
+9,Dorchester Park,Dorchester Park,1915,8362
+10,Forest Hills Playground,Forest Hills Playground,1915,181826
+11,Franklin Field,Franklin Field,1915,275297
+12,First Street Playground,First Street Playground,1915,294449
+13,Gibson Playground,Gibson Playground,1915,258325
+14,John Winthrop Playground,John Winthrop Playground,1915,39400
+15,Marcella Street Playground,Marcella Street Playground,1915,295243
+16,Mystic Playground,Mystic Playground,1915,80613
+17,Norfolk Street Playground,Norfolk Street Playground,1915,85001
+18,Neponset Playground,Neponset Playground,1915,135771
+19,North Brighton Playground,North Brighton Playground,1915,177655
+20,Orient Heights Playground,Orient Heights Playground,1915,44290
+21,Roslindale Playground,Roslindale Playground,1915,162453
+22,Randolph Street Playground,Randolph Street Playground,1915,115066
+23,Ripley Playground ,Ripley Playground ,1915,15232
+24,Ronan Park,Ronan Park,1915,22425
+25,Strandway,Strandway,1915,257525
+26,Savin Hill Playground,Savin Hill Playground,1915,72860
+27,William Eustis Playground ,William Eustis Playground ,1915,295071
+28,West Fifth Street Playground,West Fifth Street Playground,1915,88370
+29,West Third Street Playground,West Third Street Playground,1915,57070
+30,Wood Island Park,Wood Island Park,1915,100245
+31,Ward 5 Playground,Ward 5 Playground,1915,8001
+32,Ashmont Playground,Ashmont Playground,1916,55546
+33,Billings Field,Billings Field,1916,47903
+34,Columbus Avenue Playground,Columbus Avenue Playground,1916,105652
+35,Cottage Street Playground,Cottage Street Playground,1916,138878
+36,Charlestown Playground,Charlestown Playground,1916,186289
+37,"""Charlesbank, Women's gymnasium""","Charlesbank, Women's gymnasium",1916,114942
+38,"""Charlesbank, men's gymnasium""","Charlesbank, men's gymnasium",1916,86619
+39,Commonwealth Park,Commonwealth Park,1916,82660
+40,Dorchester Park,Dorchester Park,1916,32734
+41,Forest Hills Playground,Forest Hills Playground,1916,111055
+42,Franklin Field,Franklin Field,1916,248682
+43,First Street Playground,First Street Playground,1916,196420
+44,Gibson Playground,Gibson Street Playground,1916,172235
+45,John Winthrop Playground,John Winthrop Playground,1916,52600
+46,Marcella Street Playground,Marcella Street Playground,1916,263953
+47,Mystic Playground,Mystic Playground,1916,43921
+48,Norfolk Street Playground,Norfolk Street Playground,1916,142011
+49,Neponset Playground,Neponset Playground,1916,114275
+50,North Brighton Playground,North Brighton Playground,1916,177800
+51,Orient Heights Playground,Orient Heights Playground,1916,50800
+52,Roslindale Playground,Roslindale Playground,1916,99315
+53,Randolph Street Playground,Randolph Street Playground,1916,101495
+54,,"Rutherford Avenue Playground, Charlestown",1916,10746
+55,Ripley Playground ,Ripley Playground ,1916,20179
+56,Strandway,Strandway,1916,257158
+57,Savin Hill Playground,Savin Hill Playground,1916,68380
+58,William Eustis Playground ,William Eustis Playground ,1916,259370
+59,West Fifth Street Playground,West Fifth Street Playground,1916,84322
+60,West Third Street Playground,West Third Street Playground,1916,42009
+61,Wood Island Park,Wood Island Park,1916,249082
+62,,"Smith's Pond, Hyde Park",1916,4550
+63,Ashmont Playground,Ashmont Playground,1917,77250
+64,Billings Field,,1917,43883
+65,Columbus Avenue Playground,,1917,120784
+66,Cottage Street Playground,,1917,132030
+67,Charlestown Playground,"charlestown heights
+",1917,49686
+68,Charlestown,charlestown ,1917,195685
+69,"""Charlesbank, men's gymnasium""",,1917,48174
+71,"""Charlesbank, Women's gymnasium""",,1917,53059
+72,Commonwealth Park,,1917,101055
+73,Dorchester Park,,1917,34715
+74,Forest Hills Playground,,1917,111800
+75,Franklin Field,,1917,377423
+76,First Street Playground,,1917,368790
+77,Gibson Playground,,1917,174285
+78,John Winthrop Playground,,1917,57050
+79,Marcella Street Playground,,1917,238020
+80,Mystic Playground,,1917,37620
+70,Norfolk Street Playground,,1917,56590
+81,Neponset Playground,,1917,102465
+82,North Brighton Playground,,1917,142359
+83,Orient Heights Playground,,1917,51306
+84,Ronan Park,,1917,288191
+85,Roslindale Playground,,1917,105635
+86,Randolph Street Playground,,1917,98571
+87,Ripley Playground ,,1917,22560
+88,Strandway,Now Columbus Park changes name in ~1917,1917,198650
+89,William Eustis Playground ,,1917,268838
+90,West Fifth Street Playground,,1917,78845
+91,West Third Street Playground,,1917,43831
+92,Wood Island Park,,1917,256335
+93,Ward 5 Playground,"""Ward 5, Charlestown""
+",1917,7060
+95,Ashmont Playground,,1918,69995
+96,Billings Field,,1918,40660
+97,Columbus Avenue Playground,,1918,115965
+98,Columbus Park,,1918,190500
+99,"""Charlesbank, men's gymnasium""",,1918,41150
+100,"""Charlesbank, Women's gymnasium""",,1918,50225
+101,Charlestown Playground,,1918,182995
+102,Charlestown,"""Charlestown Heights"" 
+
+",1918,39382
+103,Commonwealth Park,,1918,93090
+104,Cottage Street Playground,,1918,127380
+105,Dorchester Park,,1918,31900
+106,First Street Playground,,1918,225890
+107,Forest Hills Playground,,1918,105600
+108,Franklin Field,,1918,295825
+109,Gibson Playground,,1918,165295
+110,John Winthrop Playground,,1918,51500
+111,Marcella Street Playground,,1918,235350
+112,Mystic Playground,,1918,36458
+113,Neponset Playground,,1918,99928
+114,North Brighton Playground,,1918,135895
+115,Orient Heights Playground,,1918,49626
+116,Randolph Street Playground,,1918,94443
+117,Ripley Playground ,,1918,19547
+118,Ronan Park,,1918,275300
+119,Roslindale Playground,,1918,99505
+120,Savin Hill Playground,,1918,65650
+121,William Eustis Playground ,,1918,248394
+122,West Fifth Street Playground,,1918,75630
+123,West Third Street Playground,,1918,40580
+124,Wood Island Park,,1918,255590
+132,Ashmont Playground,,1919,103437
+133,Billings Field,,1919,10734
+134,Carolina Avenue Playground,,1919,19121
+135,Charlesbank Gymnasium,,1919,49592
+136,Charlestown Playground,,1919,211950
+137,Charlestown,Charlestown heights`,1919,47885
+138,Columbus Avenue Playground,,1919,110677
+139,Columbus Park,,1919,212155
+140,Cottage Street Playground,,1919,89264
+141,First Street Playground,,1919,376065
+142,Forest Hills Playground,,1919,96787
+143,Fellow Street Playground,,1919,35072
+144,Franklin Field,,1919,305134
+145,Gibson Playground,,1919,173872
+146,John Winthrop Playground,,1919,172290
+147,Marcella Street Playground,,1919,204649
+148,Mission Hill Playground,,1919,112543
+149,Mystic Playground,,1919,31593
+150,Neponset Playground,,1919,39584
+151,Norfolk Street Playground,,1919,64897
+152,North Brighton Playground,,1919,104637
+162,Randolph Street Playground,,1919,67293
+153,Rogers Park,,1919,18292
+154,Ronan Park,,1919,87870
+155,Roslindale Playground,,1919,103837
+156,Rutherford Avenue Playground,,1919,31751
+157,William Eustis Playground ,,1919,241714
+158,West Third Street Playground,,1919,34417
+159,West Fifth Street Playground,,1919,60120
+160,Wood Island Park,,1919,435729
+163,Ashmont Playground,,1920,168109
+164,Billings Field,,1920,148708
+165,Carolina Avenue Playground,,1920,85862
+166,Charlesbank Gymnasium,,1920,135105
+167,Charlestown,,1920,184870
+168,Charlestown Heights,,1920,77994
+169,William E Carter,,1920,350193
+170,Columbus Park,,1920,402290
+171,Cottage Street Playground,,1920,156753
+172,First Street Playground,,1920,559938
+173,Forest Hills Playground,,1920,86950
+174,Franklin Field,,1920,276532
+175,Fellow Street Playground,,1920,40080
+176,Gibson Playground,,1920,265092
+177,John Winthrop Playground,,1920,50250
+178,Marcella Street Playground,,1920,267386
+179,Mission Hill Playground,,1920,203811
+180,Mystic Playground,,1920,68690
+181,Neponset Playground,,1920,94280
+182,Norfolk Street Playground,,1920,102520
+183,North Brighton Playground,,1920,179187
+184,Randolph Street Playground,,1920,130881
+185,Rogers Park,,1920,80216
+186,Fallon Field,,1920,88290
+187,Rutherford Avenue Playground,,1920,53950
+188,William Eustis Playground ,,1920,324569
+189,West Third Street Playground,,1920,36615
+190,West Fifth Street Playground,,1920,54521
+191,Wood Island Park,,1920,731045
+192,Ronan Park,,1920,356830
+193,Orient Heights Playground,,1920,87275
+194,Mozart Street,,1920,18836
