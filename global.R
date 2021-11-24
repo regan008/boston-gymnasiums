@@ -1,4 +1,4 @@
-library(rgdal)
+require(rgdal)
 attendance <- read.csv("data-attendance.csv", stringsAsFactors=F)
 yearly.attendance.bygym <- attendance %>% group_by(Year, gymid) %>% summarize(total = sum(attendance)) 
 yearly.attendance.bygym <- left_join(yearly.attendance.bygym, gyms, by="gymid")
